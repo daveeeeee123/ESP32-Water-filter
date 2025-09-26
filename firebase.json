@@ -1,6 +1,7 @@
 {
   "hosting": {
     "public": "No",
+    "site": "esp-32-c2cd8",
     "ignore": [
       "firebase.json",
       "**/.*",
